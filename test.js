@@ -32,4 +32,4 @@ function Circle(radius) {
 }
 let another = new Circle(3);
 another.draw();
-//window.alert('Hello broooo');
+window.alert('Hello broooo');
