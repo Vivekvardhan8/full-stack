@@ -2,7 +2,7 @@ let person = {
     name: 'Vivek',
     age: 25
 };
- person.name = 'Vicky';
+ //person.name = 'Vicky';
 console.log(person);
 
 let selectedColors = ['red', 'purple'];
