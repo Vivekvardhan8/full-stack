@@ -32,4 +32,15 @@ function Circle(radius) {
 }
 let another = new Circle(3);
 another.draw();
-window.alert('Hello broooo');
+//window.alert('Hello broooo');
+
+function createCounter(n) {
+    let v = n;
+    return function() {
+        return v++;
+    }
+}
+const counter = createCounter(4);
+counter();
+counter();
+console.log(counter());
