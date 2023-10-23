@@ -1,2 +1,2 @@
 # full-stack
-Full stack repo
+This is a practice repo no particular objective here!
